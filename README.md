@@ -6,7 +6,7 @@
 - Webpack bundle configuration
 
 ## Usage
-- `yarn install` | Update the packages
+- `yarn install` | Fetch the packages
 - `yarn start` | Build + Start Webpack server
 - `yarn dev` | Execute in development environment
 - `yarn build` | Just build the bundle
