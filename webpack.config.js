@@ -35,7 +35,8 @@ const config = {
     }),
     new CopyPlugin({
       patterns: [
-        { from: 'public/robots.txt', to: 'robots.txt' }
+        { from: 'public/robots.txt', to: 'robots.txt' },
+        { from: 'public/manifest.json', to: 'manifest.json' },
       ]
     }),
   ],
