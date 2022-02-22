@@ -1,2 +1,2 @@
-# react-ts-quick-boilerplate
+# Quick boilerplate for React + TypeScript + Webpack
  
