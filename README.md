@@ -1,4 +1,5 @@
 # Quick boilerplate for React + TypeScript + Webpack
+[Quick view](https://eternalquasar0206.github.io/ReactTsWebpack.QuickBoilerplate.Build/) (bundle).
 
 ## Includes
 - React
